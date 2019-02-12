@@ -9,7 +9,7 @@
    Date:   2.5.19
 
 */
-
+//
 // window.alert("Welcome to Tulsa ");
 document.getElementById('dateNow').innerHTML = 'm/d/y<br />h:m:s';
 document.getElementById("days").textContent = "dd";
